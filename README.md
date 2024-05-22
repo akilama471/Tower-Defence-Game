@@ -1,2 +1,2 @@
-# Tower Defence Game
- This is a Tower Defense game based on Godot 4.
+# Tower_Defence
+ Lightweight Tower Defence Mobile Game 
